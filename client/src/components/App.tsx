@@ -1,10 +1,10 @@
-import { Scene }  from './Scene'
+import { Scene } from './ClientScene'
 
 function App() {
   return (
     <div>
       <h1>SOON TO BE A GAME</h1>
-        <Scene/>
+      <Scene/>
       <p>React development has begun!</p>
     </div>
   )
