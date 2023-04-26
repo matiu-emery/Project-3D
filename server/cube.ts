@@ -13,26 +13,4 @@ export class Cube {
   }
 }
 
-// Matiu-Persona-Project/
-// | -- Client/
-// |  | -- Component/
-// |    | -- App.tsx
-// |    | -- Scene.tsx
-// |  | --index.tsx
-// |  | -- webpackConfig.config.js
-// | -- node_modules/
-// | -- server/
-// |  | -- public/
-// |    | -- bundle.js
-// |    | -- bundle.js.map
-// |    | -- index.html
-// |    | -- main.css
-// |  | -- cube.ts
-// |  | -- index.ts
-// |  | -- Scene.ts
-// |  | -- server.ts
-// | -- .gitignore
-// | -- package-Lock.json
-// | -- package.json
-// | -- readme.md
-// | -- tsconfig.json
+

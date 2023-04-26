@@ -15,7 +15,14 @@ export function Scene() {
     // Create the 3D scene using the createScene function and pass in the canvas element
     createScene(canvas)
   }, [])
-
+  function handleClick(e: MouseEvent) {
+    e.movementX
+  }
   // Return the canvas element with a reference to the canvasRef
-  return <canvas ref={canvasRef} width={800} height={600} />
+  return (
+    <>
+
+  <canvas ref={canvasRef} width={800} height={800} />
+  </>
+  )
 }
